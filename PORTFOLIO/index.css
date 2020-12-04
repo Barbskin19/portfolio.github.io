@@ -1,0 +1,23 @@
+
+/**/
+
+.navbar{
+	font-size: 15px;
+	font-weight: 700;
+	padding: 40px,0;
+	text-transform: uppercase;
+}
+.background{
+	background: url(image/shoes.jpg);
+ 	background-repeat: no-repeat;
+  	background-size: auto;
+  	background-image: cover;
+}
+.header{
+	position: absolute;
+	top: 30%;
+	color: white;
+	width: 100%;
+	max-width: 100%;
+	font-size: 80px;
+}
